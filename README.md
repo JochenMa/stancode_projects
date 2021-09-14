@@ -6,7 +6,7 @@ Please watch my *[DEMO VEDIOS!](https://www.youtube.com/watch?v=G06DEvlyips&list
 
 ## Project Source Codes
 *[Breakout Game](https://github.com/JochenMa/stancode_projects/blob/main/stancode_projects/breakout_game/breakout.py)\
- *Animation & Game Designing\
+  *Animation & Game Designing\
 *[MyPhotoshop](https://github.com/JochenMa/stancode_projects/blob/main/stancode_projects/photoshop/stanCodoshop.py)\
   *Image Processing\
 *[Name Popularity Searching System](https://github.com/JochenMa/stancode_projects/blob/main/stancode_projects/babyname/babygraphics.py)\
